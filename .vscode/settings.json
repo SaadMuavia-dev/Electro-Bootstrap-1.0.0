@@ -1,0 +1,7 @@
+{
+    "editor.wordWrap": "on",
+    "debug.console.wordWrap": true,
+    "notebook.output.wordWrap": true,
+    "chat.editor.wordWrap": "on",
+    "editor.wrapOnEscapedLineFeeds": true
+}
